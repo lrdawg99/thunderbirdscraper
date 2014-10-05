@@ -6,3 +6,6 @@
 4. Receive a nice CSV file.
 5. Thunderbird -> Import -> CSV
 6. Follow the wizard.
+
+This is a fork of Dennis Ideler's version.
+https://gist.github.com/dideler/5219706

@@ -7,7 +7,6 @@
 # - Does not check for duplicates (which can easily be done in the terminal).
 #
 # (c) 2013  Dennis Ideler <ideler.dennis@gmail.com>
-# Modified 2014 lrdawg99
 
 from optparse import OptionParser
 import os.path
